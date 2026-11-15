@@ -27,6 +27,9 @@
 - [Trusted House Painters Anchorage for Your Home](https://local-business-guides.github.io/campbell-painting-llc-anchorage/trusted-house-painters-anchorage/): Trusted House Painters Anchorage for interior, exterior, drywall, and cabinet work in Anchorage. Request a free estimate from Campbell Painting LLC.
 - [Experienced House Painters Anchorage for Home Projects](https://local-business-guides.github.io/campbell-painting-llc-anchorage/experienced-house-painters-anchorage/): Experienced House Painters Anchorage for home painting and repairs in Anchorage. Call Campbell Painting LLC to discuss your project and request an estimate.
 
+## Newsroom
+- [Campbell Painting Shares Local Guide to House Painters Anchorage](https://local-business-guides.github.io/campbell-painting-llc-anchorage/news/2026-11-15-campbell-painting-shares-local-guide-to-house/): Campbell Painting LLC published a guide to house painters Anchorage residents can read as an article, watch on YouTube or hear as audio. (2026-11-15)
+
 ## Pages
 - [House Painters in Anchorage, Alaska](https://local-business-guides.github.io/campbell-painting-llc-anchorage/): Get thoughtful interior and exterior painting for your Anchorage home or business from a crew that stays with your project. Call +1866-544-0241.
 - [About Campbell Painting LLC](https://local-business-guides.github.io/campbell-painting-llc-anchorage/about/): About Campbell Painting LLC, Anchorage.
@@ -34,4 +37,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/campbell-painting-llc-anchorage/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/campbell-painting-llc-anchorage/news/rss.xml)
 - [Main resource site](https://campbell-painting-anchorage.localwebsites.chatgpt.site)

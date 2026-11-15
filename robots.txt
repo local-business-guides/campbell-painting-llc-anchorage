@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/campbell-painting-llc-anchorage/sitemap.xml
+Sitemap: https://local-business-guides.github.io/campbell-painting-llc-anchorage/news-sitemap.xml
